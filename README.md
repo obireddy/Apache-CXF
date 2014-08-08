@@ -1,4 +1,4 @@
 Apache-CXF
 ==========
 
-Apache CXF Sample Web Service
+Apache CXF Sample Web Service sample web service
