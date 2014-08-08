@@ -1,7 +1,7 @@
-Apache-CXF
-==========
+Apache-CXF Web services  
+========================
 
-Apache CXF Sample Web Service
+Apache CXF Sample Web Services
 
 Tools required to build this project
 
